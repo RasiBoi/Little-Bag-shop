@@ -1,0 +1,9 @@
+Welcome to Little Bag Shop
+
+Bag ID: 1
+Quantity: 10
+Price per Bag: 100.00
+Total: 1000.00
+
+Date and Time: Mon Aug 26 12:30:18 IST 2024
+Thank you for shopping with us!
